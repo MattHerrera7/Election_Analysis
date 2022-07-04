@@ -1,0 +1,6 @@
+#Python_Election_Analysis
+Analysis of election results using python to read in a csv file and provide the folowing deliverables:
+1. The Election Results Printed to the Command Line
+2. The Election Results Saved to a Text File 
+3. A Written Analysis of the Election Audit
+![Expected Output](PyPoll_Challenge\Images\Final_Results.png)
